@@ -9,7 +9,12 @@
           <h2>DampHikethegamer</h2>
           <p>Founder</p>
         </div>
-   
+        <div class="hr-person">
+          <img src="https://cdn.discordapp.com/avatars/976538165273845830/64a38537743bebad722d0b6c82833da0.png?size=512" alt="michelle">
+          <h2>rmike.dev</h2>
+          <p>Motorsport Director</p>
+        </div>
+        
 
         <div class="hr-person">
           <img src="imgs_SVGS/IMGS/team/zly.png" alt="zly">
@@ -17,6 +22,28 @@
           <p>Co-Founder</p>
         </div>
 
+          <div class="hr-person">
+            <img src="https://cdn.discordapp.com/avatars/1277605445904629827/5025a7367cb870e2c7c6b0dea207b638.png?size=512" alt="jdm">
+            <h2>storm.al</h2>
+            <p>Community Director</p>
+          </div>
 
+          <div class="hr-person">
+            <img src="https://cdn.discordapp.com/avatars/790254318389166111/17041f6f9f7e5dacfd93193118e434c0.png?size=512" alt="sandrik">
+            <h2>_ejx</h2>
+            <p>Executive Board</p>
+          </div>
+
+          <div class="hr-person">
+            <img src="https://cdn.discordapp.com/avatars/674961929718071306/de4cca8b0ab026f9d23c3bf42edd63a7.png?size=512" alt="ripmyimage_6">
+            <h2>ripmyaccount_6</h2>
+            <p>Staff Manager</p>
+          </div>
+
+          <div class="hr-person">
+            <img src="https://cdn.discordapp.com/avatars/1017838352579444776/7a146aad3094fd996f11456b94d88487.png?size=512" alt="ziv">
+            <h2>d4vid27</h2>
+            <p>Management</p>
+          </div>
 
      

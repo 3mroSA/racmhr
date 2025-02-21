@@ -1,0 +1,8 @@
+{
+  "_comment": "as of right now i didnt make it so you can make things bold or whatever,
+but if you'd like to make something bold do it like this  <strong> your text </strong> if you would like to make a new line,
+<br> , if youd like to make italic text, <em> your text</em> if you still coudnt figure it out dm me",
+  "header": "<em>New event!</em>",
+  "description": "<strong> 🏁 Speed Showdown</strong> <br> In this event, racers will compete to reach a specified location each round, with the first one to arrive declared the winner. Everyone will start at the Sheriff’s Office, where a location or postal number will be announced. The first racer to reach that destination wins the round, and the next round will begin from the previous location. This cycle will continue for several rounds, making for an intense and fast-paced competition.",
+  "footer": "2/19/25; 3mro"
+}

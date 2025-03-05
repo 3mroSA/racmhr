@@ -10,6 +10,11 @@
           <p>Founder</p>
         </div>
 
+        <div class="hr-person">
+            <img src="https://cdn.discordapp.com/avatars/976538165273845830/64a38537743bebad722d0b6c82833da0.png?size=512" alt="michelle">
+            <h2>storm.al</h2>
+            <p>Community Director</p>
+          </div>
         
           <div class="hr-person">
             <img src="https://cdn.discordapp.com/avatars/1277605445904629827/a75bb555deae041e270bdaa0a00ee9da.png?size=512" alt="jdm">
@@ -29,11 +34,6 @@
             <p>Staff Manager</p>
           </div>
 
-  <div class="hr-person">
-            <img src="https://cdn.discordapp.com/avatars/1030809237460365392/afbfa15af9258350e88afafe39c68688.png?size=512" alt="alex">
-            <h2>rrrenn</h2>
-            <p>Management</p>
-          </div>
 
 
      

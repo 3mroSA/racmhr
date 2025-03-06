@@ -1,4 +1,4 @@
-   <div class="hr-person">
+   <div  onclick="navigate('https://discord.com/invite/erlc', true, true)" class="hr-person">
           <img src="https://cdn.discordapp.com/avatars/780599033991266334/7da250d74e92e936aa1537ce912e3f7e.png?size=512" alt="stunt">
           <h2>blood6666</h2>
           <p>Founder</p>

@@ -16,16 +16,16 @@
             <p>Community Director</p>
           </div>
       
-    <div onclick="navigate('https://discordapp.com/users/872110981835268096', true, true)" class="hr-person">
-            <img src="https://cdn.discordapp.com/avatars/872110981835268096/f7d4b2b30894ae177b45312a9c492a74.png?size=512" alt="jdm">
-            <h2>stefpower</h2>
-            <p>Executive</p>
-          </div>
-
           <div onclick="navigate('https://discordapp.com/users/1017838352579444776', true, true)" class="hr-person">
             <img src="https://cdn.discordapp.com/avatars/1017838352579444776/aae7c538fdb5221239b0532fa4f3789b.png?size=512" alt="ziv">
             <h2>d4vid27</h2>
             <p>Executive</p>
+          </div>
+
+ <div onclick="navigate('https://discordapp.com/users/1030809237460365392', true, true)" class="hr-person">
+            <img src="https://cdn.discordapp.com/avatars/1030809237460365392/6a30aaaad797bd74dd2229369dc6763f.png?size=512" alt="aaron">
+            <h2>rrrenn</h2>
+            <p>Staff Manager</p>
           </div>
 
 

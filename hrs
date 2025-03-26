@@ -22,6 +22,12 @@
             <p>Executive</p>
           </div>
 
+ <div onclick="navigate('https://discordapp.com/users/674961929718071306', true, true)" class="hr-person">
+            <img src="https://cdn.discordapp.com/avatars/1030809237460365392/16888b016edc2c24e2627421f01dab52.png?size=512" alt="ripmypicture_6">
+            <h2>hamd_n9</h2>
+            <p>Executive</p>
+          </div>
+
  <div onclick="navigate('https://discordapp.com/users/1030809237460365392', true, true)" class="hr-person">
             <img src="https://cdn.discordapp.com/avatars/1030809237460365392/16888b016edc2c24e2627421f01dab52.png?size=512" alt="aaron">
             <h2>rrrenn</h2>

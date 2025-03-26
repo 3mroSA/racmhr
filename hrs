@@ -1,5 +1,5 @@
    <div  onclick="navigate('https://discordapp.com/users/780599033991266334', true, true)" class="hr-person">
-          <img src="https://cdn.discordapp.com/avatars/780599033991266334/7da250d74e92e936aa1537ce912e3f7e.png?size=512" alt="stunt">
+          <img src="https://cdn.discordapp.com/avatars/780599033991266334/b086ccf39e7f56aa171cc16851edca3a.png?size=512" alt="stunt">
           <h2>blood6666</h2>
           <p>Founder</p>
         </div>
@@ -23,7 +23,7 @@
           </div>
 
  <div onclick="navigate('https://discordapp.com/users/1030809237460365392', true, true)" class="hr-person">
-            <img src="https://cdn.discordapp.com/avatars/1030809237460365392/6a30aaaad797bd74dd2229369dc6763f.png?size=512" alt="aaron">
+            <img src="https://cdn.discordapp.com/avatars/1030809237460365392/16888b016edc2c24e2627421f01dab52.png?size=512" alt="aaron">
             <h2>rrrenn</h2>
             <p>Staff Manager</p>
           </div>
@@ -36,11 +36,6 @@
           </div>
 
 
- <div onclick="navigate('https://discordapp.com/users/1140182555207946301', true, true)" class="hr-person">
-            <img src="https://cdn.discordapp.com/avatars/1140182555207946301/b0761b4a441a99cd2576db9d5fd7750d.png?size=512" alt="Petuh">
-            <h2>Peter</h2>
-            <p>Manager</p>
-          </div>
 
 
  <div onclick="navigate('https://discordapp.com/users/749509586800869418', true, true)" class="hr-person">
